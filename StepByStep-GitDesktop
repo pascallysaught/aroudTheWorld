@@ -4,13 +4,15 @@
 
 3-Sur GitDesktop ADD (+) nouveau repertoire et choisir un DOSSIER sur le ordinateur = le dossier c`est une copie du WEB
 
-4-AVANT de chaque modification il faut fait un SYNC(PULL) du code REMOTE (Web) à fin de metre le code à jour avant de lui modifier OU CREER une branche
+4-AVANT de chaque modification il faut fait un SYNC(PULL) du code REMOTE (Web) à fin de metre le code à jour avant de lui modifier 
 
-5-MODIFIER le code
+5-Coisir le BRANCH OU CREER une branch  = COPIE du MASTER ... Travailler au dessu du branch
 
-6-Cliquer sur COMMIT avec description
+6-MODIFIER le code
 
-7-SYNC (=push) pour chequer le modifications
+7-Cliquer sur COMMIT avec description
+
+8-SYNC (=push) pour chequer le modifications
 
 
 OBS:
