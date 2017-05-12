@@ -1,11 +1,18 @@
 1-Ouvrir Git desktop et GitHub Web
-2-Sur gitWeb copier le URL du project ou telercharger directament dans l`ordinateur
+
+2-Sur gitWeb copier le URL du project OU telercharger directament dans l`ordinateur
+
 3-Sur GitDesktop ADD (+) nouveau repertoire et choisir un DOSSIER sur le ordinateur = le dossier c`est une copie du WEB
-4-A chaque modification il faut fait un PULL du code REMOTE (Web)
+
+4-AVANT de chaque modification il faut fait un SYNC(PULL) du code REMOTE (Web) à fin de metre le code à jour avant de lui modifier OU CREER une branche
+
 5-MODIFIER le code
+
 6-Cliquer sur COMMIT avec description
-7-SYNC (=push)
+
+7-SYNC (=push) pour chequer le modifications
 
 
 OBS:
 
+MASTER REMOTE est diferent de MASTER LOCAL
